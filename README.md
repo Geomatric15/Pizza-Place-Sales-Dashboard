@@ -39,3 +39,17 @@ The data are seperated to 4 tables:
 Data Source: **Maven Analytics**
 
 ## Dashboard
+
+### About
+![About - 1](https://github.com/user-attachments/assets/e3bde96b-e474-45ac-9e68-1b50dc5f205b)
+
+### Overview
+![Overview - 2](https://github.com/user-attachments/assets/6cae3317-28ba-4b68-8426-c924026e59bc)
+
+### Analysis
+![Analysis - 3](https://github.com/user-attachments/assets/30011ecd-876f-491a-900b-24356d04ad1a)
+
+### Table
+![Tables - 4](https://github.com/user-attachments/assets/b4dd8fc2-c343-4d9b-a60c-35c5779c3729)
+
+
